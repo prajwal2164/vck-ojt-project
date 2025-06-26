@@ -2,9 +2,9 @@ import Header from "../components/Header/Header";
 
 const CoursePage = () => {
   return(
-    <div class="body">
+    <div className="body" >
     <Header/>
-    <div class="inner-body">
+    <div className="inner-body">
     
     <center><h1><font color="blue">Our Academic Programs</font></h1></center>
         <p>

@@ -2,11 +2,11 @@ import Header from "../components/Header/Header";
 
 const ContactPage = () => {
   return(
-    <div class="body">
+    <div className="body">
     <Header/>
-    <div class="inner-body">
+    <div className="inner-body">
   
-    <center><h1><font color="blue">Contact Us</font></h1></center>
+    <center><h1><font color="blue">      Contact Us       </font></h1></center>
         <p>We'd love to hear from you! Whether you have questions about admissions, programs, or campus life, our team is here to help.</p>                                                         
         <h2>General Enquiries</h2>
         <h5>Vivekanand College Main Campus</h5>
