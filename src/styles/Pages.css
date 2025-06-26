@@ -1,10 +1,5 @@
 
-table{
-    height: 100px;
-    width: 800px;
-    border-collapse: collapse;
-    border: 2px solid;
-}
+table
 th {
     border-bottom: 1px solid black;
     border: 2px solid black;
@@ -18,14 +13,12 @@ h1{
     text-decoration: aqua;
 }
    
+
     header { background-color: #0377eb; color: white; padding: 1px; }
-    nav a { color: white; margin: 0 15px; text-decoration: Vivekanand college; }
+    nav a { color: white; margin:  15px; text-decoration: right; }
     .apply-button { background-color: green; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
     .hero { padding: 40px; text-align: center; background-color: #f0f8ff; }
     .footer { background-color: #222; color: #aaa; padding: 10px; text-align: center; }
-
-
-   
 
 
 .body {
@@ -35,6 +28,8 @@ h1{
     margin-right: 0;
     margin-bottom: 0;
     
+    
+   
 }
 
 .inner-body {
@@ -42,9 +37,11 @@ h1{
     width: 70%;
     margin: 8% 15% 8%;
     background-color:white;
-    border-radius: 5px;
+    border-radius: 5px ;
     overflow-y: auto;
     color: black;
     padding: 10px;
+    
+   
    
 }

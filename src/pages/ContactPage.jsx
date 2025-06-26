@@ -5,8 +5,9 @@ const ContactPage = () => {
     <div className="body">
     <Header/>
     <div className="inner-body">
+     
   
-    <center><h1><font color="blue">      Contact Us       </font></h1></center>
+    <center><h1><font color="blue">  Contact Us   </font></h1></center>
         <p>We'd love to hear from you! Whether you have questions about admissions, programs, or campus life, our team is here to help.</p>                                                         
         <h2>General Enquiries</h2>
         <h5>Vivekanand College Main Campus</h5>
@@ -24,13 +25,13 @@ const ContactPage = () => {
       <p>Phone: +91 87654 32109</p>
       <p>Email: studentsupport@vivekanandcollege.edu</p>
       <h2>Find Us on the Map</h2>
-      <p><a href="https://maps.google.com/?q=Vivekanand+College" target="_blank" rel="noopener noreferrer">View on Google Maps</a></p>
+      <a href="https://maps.google.com/?q=Vivekanand+College" target="_blank" rel="noopener noreferrer">View on Google Maps</a>
       <h2>Send Us a Message</h2>
       <p>[A contact form with fields for Name, Email, Subject, Message can be added here.]</p>
 
+</div>
+</div>
 
-</div>
-</div>
  
   )
 }

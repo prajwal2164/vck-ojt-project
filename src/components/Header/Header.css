@@ -12,4 +12,9 @@ p{
     text-align : left;
 }
 
-
+   
+ header { background-color: #0377eb; color: white; padding: 1px; }
+    nav a { color: white; margin:  15px; text-decoration: right; }
+    .apply-button { background-color: green; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; }
+    .hero { padding: 40px; text-align: center; background-color: #f0f8ff; }
+    .footer { background-color: #222; color: #aaa; padding: 10px; text-align: center; }
