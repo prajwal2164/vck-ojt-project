@@ -7,7 +7,7 @@ const HomePage = () => {
      <Header/>
      <div className="inner-body">
      
-    <center><img src="/images/college-banner-Cz0xylpt.png"width="120%" height="300px"></img></center>
+    <center><img src="/images/college-banner-Cz0xylpt.png"width="110%" height="300px"></img></center>
     <center><h2>Welcome to Vivekanand College !</h2>
     <h4>Your journey to excellence starts here.</h4></center>
      <center><a href="/admision"><button >Apply Now!</button></a></center>
