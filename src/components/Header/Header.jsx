@@ -4,13 +4,14 @@ const Header = () => {
   return(
     <div > 
         <header>
-
+  
           
             <nav>
 
               
     
                 <h2 align="right">
+                  
                 <Link to="/home">Home</Link>
                 <Link to="/about">About</Link>
                 <Link to="/contact">Contact</Link>

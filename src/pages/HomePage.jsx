@@ -27,6 +27,8 @@ const HomePage = () => {
         <img src="images/campus-life-Crkero7B.jpg"height="250px" width="450px"></img></center>
         <h4 align="center">Ready to start your journey with us?</h4>
       <a href="/courses"> <center><button >Explore Course</button></center></a>
+     
+     
       </div>
     </div>
     

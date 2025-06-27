@@ -2,9 +2,11 @@ import Header from "../components/Header/Header";
 
 const ContactPage = () => {
   return(
-    <div className="body">
+     <div className="body">
+     
     <Header/>
-    <div className="inner-body">
+   
+       <div className="inner-body">
      
   
     <center><h1><font color="blue">  Contact Us   </font></h1></center>
