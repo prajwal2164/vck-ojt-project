@@ -1,3 +1,4 @@
+import Footer from "../components/footer/Footer";
 import Header from "../components/Header/Header";
 
 const CoursePage = () => {
@@ -83,6 +84,7 @@ const CoursePage = () => {
        <a href="/contact"> <center><button>Inquire About Courses</button></center></a>
         
     </div>
+    <Footer/>
     </div>
    
   )

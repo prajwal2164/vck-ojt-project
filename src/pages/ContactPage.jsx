@@ -1,3 +1,4 @@
+import Footer from "../components/footer/Footer";
 import Header from "../components/Header/Header";
 
 const ContactPage = () => {
@@ -32,6 +33,7 @@ const ContactPage = () => {
       <p>[A contact form with fields for Name, Email, Subject, Message can be added here.]</p>
 
 </div>
+<Footer/>
 </div>
 
  

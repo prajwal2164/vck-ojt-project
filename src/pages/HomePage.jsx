@@ -1,5 +1,6 @@
 import Header from "../components/Header/Header";
 
+  import Footer from "../components/footer/Footer";
 const HomePage = () => {
   return(
     <div className="body" >
@@ -29,9 +30,11 @@ const HomePage = () => {
       <a href="/courses"> <center><button >Explore Course</button></center></a>
      
      
-      </div>
+      
+      
     </div>
-    
+    <Footer/>
+    </div>
   )
 }
 

@@ -1,3 +1,4 @@
+import Footer from "../components/footer/Footer";
 import Header from "../components/Header/Header";
 const AboutPage = () => {
   return(
@@ -24,6 +25,7 @@ const AboutPage = () => {
         <p>[Briefly describe the college's history - e.g., how it started, key milestones, growth over the years, famous alumni if any]. Our journey began with a vision to make quality education available to all, and we continue that legacy today.</p>
         
 </div>
+<Footer/>
 </div>
     
   )

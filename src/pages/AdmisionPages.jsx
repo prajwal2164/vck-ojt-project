@@ -1,3 +1,4 @@
+import Footer from "../components/footer/Footer";
 import Header from "../components/Header/Header";
 const AdmisionPages = () => {
   return (
@@ -53,6 +54,7 @@ Please review the eligibility criteria and key dates below for the upcoming acad
 
 
     </div>
+    <Footer/>
     </div>
    
      )
